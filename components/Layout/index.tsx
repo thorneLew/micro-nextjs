@@ -19,14 +19,10 @@ const nav = [
 		link: '/react1/',
 		name: 'react1/home'
 	},
-	// {
-	// 	link: '/react/about',
-	// 	name: 'react/about'
-	// },
-	// {
-	// 	link: '/react/users',
-	// 	name: 'react/users'
-	// },
+	{
+		link: '/react2/',
+		name: 'react2/home'
+	},
 ]
 
 

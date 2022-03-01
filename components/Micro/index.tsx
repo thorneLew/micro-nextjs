@@ -23,6 +23,12 @@ const Micro = () => {
             container: '#root',
             activeRule: '/react1',
           },
+          {
+            name: 'sub-react2',
+            entry: '//127.0.0.1:9003',
+            container: '#root',
+            activeRule: '/react2',
+          },
         ],
       );
 
